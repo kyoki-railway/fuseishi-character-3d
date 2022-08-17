@@ -9,3 +9,9 @@
 ### 更新履歴
 
 * 2022/08/18: 初版公開
+
+### その他
+
+もし本作品がお役に立ちましたら、ぜひGitHub Sponsers経由でご支援いただければ幸いです。
+
+<https://github.com/sponsors/kyoki-railway>
